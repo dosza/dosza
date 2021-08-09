@@ -1,3 +1,7 @@
+<head>
+  <meta name="robots" content="noindex">
+ </head>
+ 
 # Github Stats
 
 <p  align="center">
