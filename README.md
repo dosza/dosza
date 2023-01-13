@@ -8,5 +8,5 @@ About
 ---
 
 ```console
-dosza@github: ~$ echo "Hello world !"
+dosza@github ~$: echo "Hello world !"
 ```
