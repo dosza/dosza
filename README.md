@@ -2,8 +2,7 @@
   <meta name="robots" content="noindex">
  </head>
  
-# Github Stats
-
+ 
 About
 ---
 
